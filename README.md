@@ -10,3 +10,7 @@ docker run -d -p <ServerPort>:<NodePort> <dockerName>
 ```
 
 If you want more information about docker you can access: https://www.docker.com/blog/getting-started-with-docker-using-node-jspart-i/.
+
+## Features
+
+The project is using prettier, eslint and editorConfig to force style code. You should feel free to edit your own configuration.
